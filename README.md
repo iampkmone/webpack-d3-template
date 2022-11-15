@@ -1,7 +1,9 @@
 # webpack-d3-template
-# Setup
-### Install node 
-### clone repo
-### run> npm install 
-### To build : npm run build 
-### For live dev server : npm run start
+<p> Template for d3 with webpack for getting started </p> 
+
+## Setup
+1. Install nodejs 
+2. clone repo
+3. run npm install 
+4. To build : npm run build 
+5. For live dev server : npm run start
